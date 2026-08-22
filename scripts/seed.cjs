@@ -1,9 +1,7 @@
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://kuldeeppatidar9091_db_user:jUmT7kQZlsHJgcdB@meal-harvest.wqrohzx.mongodb.net/food_rescue?retryWrites=true&w=majority';
-
-// Mongoose Schemas
+const MONGODB_URI = process.env.MONGODB_URI ;
 const UserSchema = new mongoose.Schema(
   {
     name: String,
