@@ -68,8 +68,8 @@ The seeded demo accounts use the password `password123`. Change or remove demo c
 
 ## Some user IDs and pass for checking the website
 
-## Provider - kuldeep@gmail.com - 963852
-## Driver / NGOs - kuldeeppatel2052007@gmail.com - 963852
+ Provider - kuldeep@gmail.com - 963852
+ Driver / NGOs - kuldeeppatel2052007@gmail.com - 963852
 
 ## User Roles
 
